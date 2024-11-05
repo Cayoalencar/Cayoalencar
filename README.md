@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Eu sou um desenvolvedor. Aqui, você pode enc
 
 - 💻 Estudando Engenharia de Software na Universidade de Brasília.
 - 🌱 Atualmente aprendendo mais sobre Java, git, python e devops.
-- 📫 Como me encontrar: instagram: https://www.instagram.com/cayo_alencar/ email:Cayoalencar2345@gmail.com 
+- 📫 Como me encontrar: [![Instagram](https://img.shields.io/badge/Instagram-fff?style=social&logo=Instagram)](https://www.instagram.com/cayo_alencar/)  
 
 ## 📊 GitHub Stats
 
@@ -27,7 +27,7 @@ Aqui está meu troféu do GitHub! Ele mostra algumas das minhas realizações ma
 
 ## 🎯 Objetivos futuros
 
-- Aprender Python e Data science.
+- Aprender Python e data science além de dominar técnicas de desenvolvimento.
 - Contribuir para mais projetos de código aberto.
 - Criar novos projetos e aplicativos inovadores.
 
