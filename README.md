@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Eu sou um desenvolvedor. Aqui, você pode enc
 
 - 💻 Estudando Engenharia de Software na Universidade de Brasília.
 - 🌱 Atualmente aprendendo mais sobre Java, git, python e devops.
-- 📫 Como me encontrar: <a href="https://instagram.com/cayo_alencar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=social&logo=LinkedIn)](https://www.linkedin.com/in/cayo-alencar/)
+- 📫 Como me encontrar: <a href="https://instagram.com/cayo_alencar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/cayo-alencar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## 📊 GitHub Stats
 
