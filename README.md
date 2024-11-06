@@ -31,11 +31,6 @@ Aqui está meu troféu do GitHub! Ele mostra algumas das minhas realizações ma
 - Contribuir para mais projetos de código aberto.
 - Criar novos projetos e aplicativos inovadores.
 
----
 
-📈 **Minhas Estatísticas no GitHub**
 
-- ⭐ Repositórios: [Total de repositórios]
-- 🏆 Contribuições no último ano: [Total de contribuições]
-- 📅 Dias consecutivos com contribuições: [Dias consecutivos]
 
