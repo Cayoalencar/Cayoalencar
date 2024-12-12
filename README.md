@@ -12,7 +12,7 @@ Bem-vindo ao meu perfil do GitHub! Eu sou um desenvolvedor. Aqui, você pode enc
 
 Aqui estão algumas estatísticas sobre minhas atividades no GitHub:
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cayoalencar)](https://github.com/Cayoalencar/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cayoalencar&theme=tokyonight&showincons=true)](https://github.com/Cayoalencar/github-readme-stats)
 
 ### Linguagens mais usadas
 
