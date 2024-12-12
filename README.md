@@ -17,6 +17,7 @@ Aqui estão algumas estatísticas sobre minhas atividades no GitHub:
 ### Linguagens mais usadas
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayoalencar&layout=compact&langs_count=8&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayoalencar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🏆 GitHub Trophy
