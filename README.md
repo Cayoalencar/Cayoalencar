@@ -14,12 +14,6 @@ Aqui estão algumas estatísticas sobre minhas atividades no GitHub:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cayoalencar&theme=tokyonight&showincons=true)](https://github.com/Cayoalencar/github-readme-stats)
 
-### Linguagens mais usadas
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayoalencar&layout=compact&langs_count=8&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cayoalencar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 🏆 GitHub Trophy
 
 Aqui está meu troféu do GitHub! Ele mostra algumas das minhas realizações mais notáveis.
