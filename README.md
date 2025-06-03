@@ -16,7 +16,7 @@ Aqui estão algumas estatísticas sobre minhas atividades no GitHub:
 
 ## 🏆 GitHub Trophy
 
-Aqui está meu troféu do GitHub! Ele mostra algumas das minhas realizações mais notáveis.
+Aqui está meu troféu do GitHub!
 
 ![Troféu do GitHub](https://github-profile-trophy.vercel.app/?username=Cayoalencar&theme=radical)
 
