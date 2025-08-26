@@ -14,18 +14,13 @@ Aqui estão algumas estatísticas sobre minhas atividades no GitHub:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cayoalencar&theme=tokyonight&showincons=true)](https://github.com/Cayoalencar/github-readme-stats)
 
-## 🏆 GitHub Trophy
-
-Aqui está meu troféu do GitHub!
-
-[![Troféu do GitHub](https://github-profile-trophy.vercel.app/?username=Cayoalencar&theme=radical)](https://github-profile-trophy.vercel.app/?username=Cayoalencar&theme=radical&random=1)
-
 
 ## 🎯 Objetivos futuros
 
 - Aprender Python e data science além de dominar técnicas de desenvolvimento.
 - Contribuir para mais projetos de código aberto.
 - Criar novos projetos e aplicativos inovadores.
+
 
 
 
